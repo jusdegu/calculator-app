@@ -3,7 +3,7 @@
 
 ## Functionality:
 
-Calculator app performs the basic functions of a calculator such as addition, substraction, multiplication, division, modulo and exponentiation. 
+Calculator app performs the basic functions of a calculator such as addition, subtraction, multiplication, division, modulo and exponentiation. 
 
 ## Building and running
 1. In order to run the application, you will need to clone this repo:  
